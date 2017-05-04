@@ -31,4 +31,4 @@
     { "keys": ["ctrl+super+b"], "command": "show_panel", "args": {"panel": "output.exec"} },
     { "keys": ["super+b"], "command": "build_and_show" }
     ```
-1. Make sure to have the latest [ftps_deploy grunt task in your project](https://github.com/DeuxHuitHuit/symphony-2-template/blob/master/workspace/assets/tasks/ftps_deploy.js).
+1. Make sure to have the latest [ftps_deploy grunt task in your project](https://github.com/DeuxHuitHuit/symphony-2-template/blob/58b6ae0befba795d23c72a04ccf26d61c4f42401/workspace/assets/tasks/ftps_deploy.js#L72).
