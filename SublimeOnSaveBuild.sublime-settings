@@ -1,0 +1,4 @@
+{
+    "filename_filter": "\\.(?!settings|sublime-settings|git|svn|gitignore|sql).*$",
+    "build_on_save": 1
+}
