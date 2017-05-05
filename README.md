@@ -17,9 +17,9 @@
     1. In Sublime, go to `Preferences > Package Settings > SublimeOnSaveBuild > Settings - User`
     1. Set the content like [this file](https://github.com/DeuxHuitHuit/sublime-build/blob/master/SublimeOnSaveBuild.sublime-settings)
     1. Save it
-1. Go to `Preferences > Settings - User`
+1. Go to `Preferences > Settings - User`  or (`Preferences > Settings` and edit the user file)
     1. Add this line: `"show_panel_on_build": false`
-1. Go to `Preferences > Key Bindings - User`
+1. Go to `Preferences > Key Bindings - User` or (`Preferences > Key Bindings` and edit the user file)
 1. Add those two lines:
     1. On Windows/Linux
     ```
