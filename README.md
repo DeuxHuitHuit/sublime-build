@@ -10,7 +10,7 @@
     1. Save it as `288.sublime-build`
     1. Go select `Tools > Build System > 288`
 1. Create a new build and show plugin
-    1. In Sublime, go to `Tools > New Plugin`
+    1. In Sublime, go to `Tools > New Plugin` or (`Tools > Developer > New Plugin`)
     1. Set the content like [this file](https://github.com/DeuxHuitHuit/sublime-build/blob/master/BuildAndShow.py)
     1. Save it as `BuildAndShow.py`
 1. Customize the files which triggers the build on save
