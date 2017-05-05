@@ -19,7 +19,7 @@
     1. Save it
 1. Go to `Preferences > Settings - User`
     1. Add this line: `"show_panel_on_build": false`
-1. Go to `Preferences > Key Bindings (> Settings - User)`
+1. Go to `Preferences > Key Bindings - User`
 1. Add those two lines:
     1. On Windows/Linux
     ```
