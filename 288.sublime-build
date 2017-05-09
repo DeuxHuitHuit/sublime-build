@@ -1,4 +1,4 @@
 {
-	"shell_cmd": "grunt uploadfile --file=$file_name --folder=$file_path",
+	"shell_cmd": "grunt uploadfile --file=$file --filename=$file_name --filepath=$file_path --folder=$folder",
 	"working_dir": "$folder/workspace/assets"
 }
